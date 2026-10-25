@@ -1,4 +1,4 @@
-#CRISP-DM project: Telco Customer Churn Prediction
+# CRISP-DM project: Telco Customer Churn Prediction
 
 - Dataset: Telco Customer Churn
 - Target: Whether a customer churns (Yes or No)
