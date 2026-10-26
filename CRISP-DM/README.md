@@ -38,3 +38,28 @@ The deployment threshold is:
 
 ```text
 0.40
+
+## Prediction Script
+
+The deployment prediction script is located at:
+
+`CRISP-DM/deployment/predict.py`
+
+Run it from the repository root:
+
+```bash
+python3 CRISP-DM/deployment/predict.py
+
+## Saved Model Artifacts
+
+The saved deployment files are located in:
+
+`CRISP-DM/models/`
+
+Files:
+
+- `telco_preprocessor.joblib` — preprocessing pipeline
+- `telco_churn_logistic_model.joblib` — trained Logistic Regression model
+- `deployment_config.joblib` — decision threshold configuration
+
+The prediction script loads these files automatically when executed.
