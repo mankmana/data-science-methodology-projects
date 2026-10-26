@@ -258,6 +258,13 @@ The model artifacts are located in:
 CRISP-DM/models/
 ```
 
+## AI Assistance and Verification
+
+OpenAI Codex was used to assist with project planning, code generation, explanations, and iterative review of the CRISP-DM phases. The notebook code was executed in Google Colab, and the outputs, model metrics, saved artifacts, and deployment script were manually checked.
+
+AI suggestions were reviewed and adapted based on the dataset, observed results, and project objectives.
+
+
 ## 10. Conclusion
 
 This project demonstrated a complete CRISP-DM workflow for telecommunications customer churn prediction.
