@@ -62,3 +62,7 @@ Files:
 - `deployment_config.joblib` — decision threshold configuration
 
 The prediction script loads these files automatically when executed.
+
+## Project Links
+- [Medium Article](https://medium.com/@manalivijay.mankad/predicting-telecom-customer-churn-with-crisp-dm-0dbd5994cc02)
+- [YouTube Walkthrough](https://youtu.be/78uxHWxjlEA)
