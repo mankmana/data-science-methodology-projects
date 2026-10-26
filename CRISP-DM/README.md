@@ -49,6 +49,7 @@ Run it from the repository root:
 
 ```bash
 python3 CRISP-DM/deployment/predict.py
+```
 
 ## Saved Model Artifacts
 
