@@ -36,7 +36,6 @@ The selected model is Logistic Regression.
 
 The deployment threshold is:
 
-```text
 0.40
 
 ## Prediction Script
@@ -48,8 +47,7 @@ The deployment prediction script is located at:
 Run it from the repository root:
 
 ```bash
-python3 CRISP-DM/deployment/predict.py
-```
+python3 CRISP-DM/deployment/predict.py```
 
 ## Saved Model Artifacts
 
