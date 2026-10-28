@@ -104,6 +104,7 @@ Random Forest was selected as the preferred model because it achieved the strong
 ```text
 [[976, 199],
  [119, 939]]```
+```
 
 ## 6. Deployment
 
