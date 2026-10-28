@@ -5,7 +5,7 @@ This project applies the Knowledge Discovery in Databases (KDD) process to segme
 ## Project Files
 
 - [Business Objective](reports/business-objective.md)
-- [Selection](reports/selection.md)
+- [Data Selection](reports/data-preparation.md)
 - [Final Report](reports/KDD_FINAL_REPORT.md)
 - [Notebook](notebooks/03_kdd_customer_segmentation.ipynb)
 - [Deployment Script](deployment/predict.py)
