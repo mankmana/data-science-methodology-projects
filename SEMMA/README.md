@@ -2,12 +2,22 @@
 
 This project applies the SEMMA methodology to predict whether a bank customer will subscribe to a term deposit.
 
+
+
 ## Dataset
 
 - Dataset: Bank Marketing Dataset
 - Records: 11,162
 - Features: 17
 - Target: `deposit`
+
+
+## Project Links
+
+- [Read the Medium article](https://medium.com/@manalivijay.mankad/predicting-bank-term-deposit-subscriptions-using-semma-cb1ae6e38adc)
+- [Watch the YouTube video walkthrough](https://youtu.be/st2ORTVfVbM)
+- [View the GitHub repository](https://github.com/mankmana/data-science-methodology-projects)
+
 
 ## SEMMA Phases
 
@@ -55,3 +65,5 @@ Run from the repository root:
 
 ```bash
 python3 SEMMA/deployment/predict.py
+
+
