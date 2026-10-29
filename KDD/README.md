@@ -25,3 +25,8 @@ The final K-Means model selected two customer segments:
 - Cluster 1: Higher-value customer segment
 
 The model and supporting artifacts are included in this project.
+
+## Project Links
+
+- [Medium Article](https://medium.com/@manalivijay.mankad/customer-segmentation-using-the-kdd-process-c9059762f1e7)
+- [YouTube Video Walkthrough](https://youtu.be/WU5Jey0RJIE)
